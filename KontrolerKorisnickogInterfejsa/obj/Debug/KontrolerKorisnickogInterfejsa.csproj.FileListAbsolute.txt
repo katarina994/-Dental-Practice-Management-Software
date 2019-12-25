@@ -1,0 +1,58 @@
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\KontrolerKorisnickogInterfejsa\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\KontrolerKorisnickogInterfejsa\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\KontrolerKorisnickogInterfejsa\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\KontrolerKorisnickogInterfejsa\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\KontrolerKorisnickogInterfejsa\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\KontrolerKorisnickogInterfejsa\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\KontrolerKorisnickogInterfejsa\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\KontrolerKorisnickogInterfejsa\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\KontrolerKorisnickogInterfejsa\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\Arsa\Desktop\BasicSem\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\Arsa\Desktop\BasicSem\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\Arsa\Desktop\BasicSem\KontrolerKorisnickogInterfejsa\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Desktop\BasicSem\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Arsa\Desktop\BasicSem\KontrolerKorisnickogInterfejsa\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Desktop\BasicSem\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Arsa\Desktop\BasicSem\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.csprojResolveAssemblyReference.cache
+C:\Users\Arsa\Desktop\BasicSem\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\Arsa\Desktop\BasicSem\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\LEPI\Documents\Visual Studio 2017\Projects\FAX\PS2019\SemSep2019\StomatoloskaOrdinacija\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\LEPI\Documents\Visual Studio 2017\Projects\FAX\PS2019\SemSep2019\StomatoloskaOrdinacija\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\LEPI\Documents\Visual Studio 2017\Projects\FAX\PS2019\SemSep2019\StomatoloskaOrdinacija\KontrolerKorisnickogInterfejsa\bin\Debug\Biblioteka.dll
+C:\Users\LEPI\Documents\Visual Studio 2017\Projects\FAX\PS2019\SemSep2019\StomatoloskaOrdinacija\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\LEPI\Documents\Visual Studio 2017\Projects\FAX\PS2019\SemSep2019\StomatoloskaOrdinacija\KontrolerKorisnickogInterfejsa\bin\Debug\Biblioteka.pdb
+C:\Users\LEPI\Documents\Visual Studio 2017\Projects\FAX\PS2019\SemSep2019\StomatoloskaOrdinacija\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\LEPI\Documents\Visual Studio 2017\Projects\FAX\PS2019\SemSep2019\StomatoloskaOrdinacija\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.csprojAssemblyReference.cache
+C:\Users\LEPI\Documents\Visual Studio 2017\Projects\FAX\PS2019\SemSep2019\StomatoloskaOrdinacija\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.csproj.CoreCompileInputs.cache
+C:\Users\LEPI\Documents\Visual Studio 2017\Projects\FAX\PS2019\SemSep2019\StomatoloskaOrdinacija\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.csproj.CopyComplete
+C:\Users\LEPI\Documents\Visual Studio 2017\Projects\FAX\PS2019\SemSep2019\StomatoloskaOrdinacija\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\LEPI\Documents\Visual Studio 2017\Projects\FAX\PS2019\SemSep2019\StomatoloskaOrdinacija\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\Katarina\Documents\Visual Studio 2010\Projects\StomatoloskaOrdinacija\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\Katarina\Documents\Visual Studio 2010\Projects\StomatoloskaOrdinacija\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\Katarina\Documents\Visual Studio 2010\Projects\StomatoloskaOrdinacija\KontrolerKorisnickogInterfejsa\bin\Debug\Biblioteka.dll
+C:\Users\Katarina\Documents\Visual Studio 2010\Projects\StomatoloskaOrdinacija\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Katarina\Documents\Visual Studio 2010\Projects\StomatoloskaOrdinacija\KontrolerKorisnickogInterfejsa\bin\Debug\Biblioteka.pdb
+C:\Users\Katarina\Documents\Visual Studio 2010\Projects\StomatoloskaOrdinacija\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Katarina\Documents\Visual Studio 2010\Projects\StomatoloskaOrdinacija\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.csprojAssemblyReference.cache
+C:\Users\Katarina\Documents\Visual Studio 2010\Projects\StomatoloskaOrdinacija\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.csproj.CoreCompileInputs.cache
+C:\Users\Katarina\Documents\Visual Studio 2010\Projects\StomatoloskaOrdinacija\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.csproj.CopyComplete
+C:\Users\Katarina\Documents\Visual Studio 2010\Projects\StomatoloskaOrdinacija\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\Katarina\Documents\Visual Studio 2010\Projects\StomatoloskaOrdinacija\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.pdb

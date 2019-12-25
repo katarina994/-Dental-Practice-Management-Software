@@ -1,0 +1,7 @@
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\KontrolerAplikacioneLogike\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.pdb

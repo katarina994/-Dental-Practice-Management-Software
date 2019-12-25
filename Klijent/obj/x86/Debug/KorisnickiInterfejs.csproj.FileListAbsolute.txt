@@ -1,0 +1,107 @@
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Klijent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Klijent\obj\x86\Debug\Klijent.Form1.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Klijent\obj\x86\Debug\Klijent.Properties.Resources.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Klijent\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Klijent\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Klijent\obj\x86\Debug\Klijent.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Klijent\bin\Debug\Klijent.exe
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Klijent\bin\Debug\Klijent.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Klijent\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Klijent\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Klijent\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Klijent\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Klijent\obj\x86\Debug\Klijent.exe
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Klijent\obj\x86\Debug\Klijent.exe
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Klijent\obj\x86\Debug\Klijent.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Klijent\bin\Debug\Klijent.exe
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Klijent\bin\Debug\Klijent.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Klijent\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Klijent\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Klijent\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Klijent\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Klijent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Klijent\obj\x86\Debug\Klijent.Form1.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Klijent\obj\x86\Debug\Klijent.Properties.Resources.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Klijent\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Klijent\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\Klijent\obj\x86\Debug\Klijent.exe
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\Klijent\obj\x86\Debug\Klijent.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\Klijent\bin\Debug\Klijent.exe
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\Klijent\bin\Debug\Klijent.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\Klijent\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\Klijent\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\Klijent\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\Klijent\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\Klijent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\Klijent\obj\x86\Debug\Klijent.Form1.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\Klijent\obj\x86\Debug\Klijent.Properties.Resources.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\Klijent\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\Klijent\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Arsa\Desktop\BasicSem\Klijent\obj\x86\Debug\Klijent.exe
+C:\Users\Arsa\Desktop\BasicSem\Klijent\obj\x86\Debug\Klijent.pdb
+C:\Users\Arsa\Desktop\BasicSem\Klijent\bin\Debug\Klijent.exe
+C:\Users\Arsa\Desktop\BasicSem\Klijent\bin\Debug\Klijent.pdb
+C:\Users\Arsa\Desktop\BasicSem\Klijent\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Desktop\BasicSem\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\Arsa\Desktop\BasicSem\Klijent\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Arsa\Desktop\BasicSem\Klijent\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Desktop\BasicSem\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\Arsa\Desktop\BasicSem\Klijent\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Arsa\Desktop\BasicSem\Klijent\obj\x86\Debug\KorisnickiInterfejs.csprojResolveAssemblyReference.cache
+C:\Users\Arsa\Desktop\BasicSem\Klijent\obj\x86\Debug\Klijent.Form1.resources
+C:\Users\Arsa\Desktop\BasicSem\Klijent\obj\x86\Debug\Klijent.Properties.Resources.resources
+C:\Users\Arsa\Desktop\BasicSem\Klijent\obj\x86\Debug\KorisnickiInterfejs.csproj.GenerateResource.Cache
+C:\Users\LEPI\Documents\Visual Studio 2017\Projects\FAX\PS2019\SemSep2019\StomatoloskaOrdinacija\Klijent\bin\Debug\Klijent.exe
+C:\Users\LEPI\Documents\Visual Studio 2017\Projects\FAX\PS2019\SemSep2019\StomatoloskaOrdinacija\Klijent\bin\Debug\Klijent.pdb
+C:\Users\LEPI\Documents\Visual Studio 2017\Projects\FAX\PS2019\SemSep2019\StomatoloskaOrdinacija\Klijent\bin\Debug\Biblioteka.dll
+C:\Users\LEPI\Documents\Visual Studio 2017\Projects\FAX\PS2019\SemSep2019\StomatoloskaOrdinacija\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\LEPI\Documents\Visual Studio 2017\Projects\FAX\PS2019\SemSep2019\StomatoloskaOrdinacija\Klijent\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\LEPI\Documents\Visual Studio 2017\Projects\FAX\PS2019\SemSep2019\StomatoloskaOrdinacija\Klijent\bin\Debug\Biblioteka.pdb
+C:\Users\LEPI\Documents\Visual Studio 2017\Projects\FAX\PS2019\SemSep2019\StomatoloskaOrdinacija\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\LEPI\Documents\Visual Studio 2017\Projects\FAX\PS2019\SemSep2019\StomatoloskaOrdinacija\Klijent\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\LEPI\Documents\Visual Studio 2017\Projects\FAX\PS2019\SemSep2019\StomatoloskaOrdinacija\Klijent\obj\x86\Debug\KorisnickiInterfejs.csprojAssemblyReference.cache
+C:\Users\LEPI\Documents\Visual Studio 2017\Projects\FAX\PS2019\SemSep2019\StomatoloskaOrdinacija\Klijent\obj\x86\Debug\Klijent.Properties.Resources.resources
+C:\Users\LEPI\Documents\Visual Studio 2017\Projects\FAX\PS2019\SemSep2019\StomatoloskaOrdinacija\Klijent\obj\x86\Debug\KorisnickiInterfejs.csproj.GenerateResource.cache
+C:\Users\LEPI\Documents\Visual Studio 2017\Projects\FAX\PS2019\SemSep2019\StomatoloskaOrdinacija\Klijent\obj\x86\Debug\KorisnickiInterfejs.csproj.CoreCompileInputs.cache
+C:\Users\LEPI\Documents\Visual Studio 2017\Projects\FAX\PS2019\SemSep2019\StomatoloskaOrdinacija\Klijent\obj\x86\Debug\KorisnickiInterfejs.csproj.CopyComplete
+C:\Users\LEPI\Documents\Visual Studio 2017\Projects\FAX\PS2019\SemSep2019\StomatoloskaOrdinacija\Klijent\obj\x86\Debug\Klijent.exe
+C:\Users\LEPI\Documents\Visual Studio 2017\Projects\FAX\PS2019\SemSep2019\StomatoloskaOrdinacija\Klijent\obj\x86\Debug\Klijent.pdb
+C:\Users\LEPI\Documents\Visual Studio 2017\Projects\FAX\PS2019\SemSep2019\StomatoloskaOrdinacija\Klijent\obj\x86\Debug\Klijent.DetaljiPacijenta.resources
+C:\Users\LEPI\Documents\Visual Studio 2017\Projects\FAX\PS2019\SemSep2019\StomatoloskaOrdinacija\Klijent\obj\x86\Debug\Klijent.GlavnaForma.resources
+C:\Users\LEPI\Documents\Visual Studio 2017\Projects\FAX\PS2019\SemSep2019\StomatoloskaOrdinacija\Klijent\obj\x86\Debug\Klijent.LoginForma.resources
+C:\Users\LEPI\Documents\Visual Studio 2017\Projects\FAX\PS2019\SemSep2019\StomatoloskaOrdinacija\Klijent\obj\x86\Debug\Klijent.UnosPacijenta.resources
+C:\Users\LEPI\Documents\Visual Studio 2017\Projects\FAX\PS2019\SemSep2019\StomatoloskaOrdinacija\Klijent\obj\x86\Debug\Klijent.UnosTermina.resources
+C:\Users\LEPI\Documents\Visual Studio 2017\Projects\FAX\PS2019\SemSep2019\StomatoloskaOrdinacija\Klijent\obj\x86\Debug\Klijent.PretragaPacijenata.resources
+C:\Users\LEPI\Documents\Visual Studio 2017\Projects\FAX\PS2019\SemSep2019\StomatoloskaOrdinacija\Klijent\obj\x86\Debug\Klijent.UnosIntervencije.resources
+C:\Users\LEPI\Documents\Visual Studio 2017\Projects\FAX\PS2019\SemSep2019\StomatoloskaOrdinacija\Klijent\obj\x86\Debug\Klijent.DetaljiTermina.resources
+C:\Users\LEPI\Documents\Visual Studio 2017\Projects\FAX\PS2019\SemSep2019\StomatoloskaOrdinacija\Klijent\obj\x86\Debug\Klijent.PretragaTermina.resources
+C:\Users\Katarina\Documents\Visual Studio 2010\Projects\StomatoloskaOrdinacija\Klijent\bin\Debug\Klijent.exe
+C:\Users\Katarina\Documents\Visual Studio 2010\Projects\StomatoloskaOrdinacija\Klijent\bin\Debug\Klijent.pdb
+C:\Users\Katarina\Documents\Visual Studio 2010\Projects\StomatoloskaOrdinacija\Klijent\bin\Debug\Biblioteka.dll
+C:\Users\Katarina\Documents\Visual Studio 2010\Projects\StomatoloskaOrdinacija\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\Katarina\Documents\Visual Studio 2010\Projects\StomatoloskaOrdinacija\Klijent\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Katarina\Documents\Visual Studio 2010\Projects\StomatoloskaOrdinacija\Klijent\bin\Debug\Biblioteka.pdb
+C:\Users\Katarina\Documents\Visual Studio 2010\Projects\StomatoloskaOrdinacija\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\Katarina\Documents\Visual Studio 2010\Projects\StomatoloskaOrdinacija\Klijent\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Katarina\Documents\Visual Studio 2010\Projects\StomatoloskaOrdinacija\Klijent\obj\x86\Debug\KorisnickiInterfejs.csprojAssemblyReference.cache
+C:\Users\Katarina\Documents\Visual Studio 2010\Projects\StomatoloskaOrdinacija\Klijent\obj\x86\Debug\Klijent.DetaljiPacijenta.resources
+C:\Users\Katarina\Documents\Visual Studio 2010\Projects\StomatoloskaOrdinacija\Klijent\obj\x86\Debug\Klijent.DetaljiTermina.resources
+C:\Users\Katarina\Documents\Visual Studio 2010\Projects\StomatoloskaOrdinacija\Klijent\obj\x86\Debug\Klijent.GlavnaForma.resources
+C:\Users\Katarina\Documents\Visual Studio 2010\Projects\StomatoloskaOrdinacija\Klijent\obj\x86\Debug\Klijent.LoginForma.resources
+C:\Users\Katarina\Documents\Visual Studio 2010\Projects\StomatoloskaOrdinacija\Klijent\obj\x86\Debug\Klijent.PretragaPacijenata.resources
+C:\Users\Katarina\Documents\Visual Studio 2010\Projects\StomatoloskaOrdinacija\Klijent\obj\x86\Debug\Klijent.PretragaTermina.resources
+C:\Users\Katarina\Documents\Visual Studio 2010\Projects\StomatoloskaOrdinacija\Klijent\obj\x86\Debug\Klijent.Properties.Resources.resources
+C:\Users\Katarina\Documents\Visual Studio 2010\Projects\StomatoloskaOrdinacija\Klijent\obj\x86\Debug\Klijent.UnosIntervencije.resources
+C:\Users\Katarina\Documents\Visual Studio 2010\Projects\StomatoloskaOrdinacija\Klijent\obj\x86\Debug\Klijent.UnosPacijenta.resources
+C:\Users\Katarina\Documents\Visual Studio 2010\Projects\StomatoloskaOrdinacija\Klijent\obj\x86\Debug\Klijent.UnosTermina.resources
+C:\Users\Katarina\Documents\Visual Studio 2010\Projects\StomatoloskaOrdinacija\Klijent\obj\x86\Debug\KorisnickiInterfejs.csproj.GenerateResource.cache
+C:\Users\Katarina\Documents\Visual Studio 2010\Projects\StomatoloskaOrdinacija\Klijent\obj\x86\Debug\KorisnickiInterfejs.csproj.CoreCompileInputs.cache
+C:\Users\Katarina\Documents\Visual Studio 2010\Projects\StomatoloskaOrdinacija\Klijent\obj\x86\Debug\KorisnickiInterfejs.csproj.CopyComplete
+C:\Users\Katarina\Documents\Visual Studio 2010\Projects\StomatoloskaOrdinacija\Klijent\obj\x86\Debug\Klijent.exe
+C:\Users\Katarina\Documents\Visual Studio 2010\Projects\StomatoloskaOrdinacija\Klijent\obj\x86\Debug\Klijent.pdb

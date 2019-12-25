@@ -1,0 +1,39 @@
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\KontrolerAplikacioneLogike\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\KontrolerAplikacioneLogike\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Arsa\Desktop\BasicSem\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Arsa\Desktop\BasicSem\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Arsa\Desktop\BasicSem\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Desktop\BasicSem\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Desktop\BasicSem\KontrolerAplikacioneLogike\obj\Debug\Komunikacija.csprojResolveAssemblyReference.cache
+C:\Users\Arsa\Desktop\BasicSem\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Arsa\Desktop\BasicSem\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\LEPI\Documents\Visual Studio 2017\Projects\FAX\PS2019\SemSep2019\StomatoloskaOrdinacija\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\LEPI\Documents\Visual Studio 2017\Projects\FAX\PS2019\SemSep2019\StomatoloskaOrdinacija\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\LEPI\Documents\Visual Studio 2017\Projects\FAX\PS2019\SemSep2019\StomatoloskaOrdinacija\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.dll
+C:\Users\LEPI\Documents\Visual Studio 2017\Projects\FAX\PS2019\SemSep2019\StomatoloskaOrdinacija\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.pdb
+C:\Users\LEPI\Documents\Visual Studio 2017\Projects\FAX\PS2019\SemSep2019\StomatoloskaOrdinacija\KontrolerAplikacioneLogike\obj\Debug\Komunikacija.csprojAssemblyReference.cache
+C:\Users\LEPI\Documents\Visual Studio 2017\Projects\FAX\PS2019\SemSep2019\StomatoloskaOrdinacija\KontrolerAplikacioneLogike\obj\Debug\Komunikacija.csproj.CoreCompileInputs.cache
+C:\Users\LEPI\Documents\Visual Studio 2017\Projects\FAX\PS2019\SemSep2019\StomatoloskaOrdinacija\KontrolerAplikacioneLogike\obj\Debug\Komunikacija.csproj.CopyComplete
+C:\Users\LEPI\Documents\Visual Studio 2017\Projects\FAX\PS2019\SemSep2019\StomatoloskaOrdinacija\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\LEPI\Documents\Visual Studio 2017\Projects\FAX\PS2019\SemSep2019\StomatoloskaOrdinacija\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Katarina\Documents\Visual Studio 2010\Projects\StomatoloskaOrdinacija\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Katarina\Documents\Visual Studio 2010\Projects\StomatoloskaOrdinacija\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Katarina\Documents\Visual Studio 2010\Projects\StomatoloskaOrdinacija\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.dll
+C:\Users\Katarina\Documents\Visual Studio 2010\Projects\StomatoloskaOrdinacija\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.pdb
+C:\Users\Katarina\Documents\Visual Studio 2010\Projects\StomatoloskaOrdinacija\KontrolerAplikacioneLogike\obj\Debug\Komunikacija.csprojAssemblyReference.cache
+C:\Users\Katarina\Documents\Visual Studio 2010\Projects\StomatoloskaOrdinacija\KontrolerAplikacioneLogike\obj\Debug\Komunikacija.csproj.CoreCompileInputs.cache
+C:\Users\Katarina\Documents\Visual Studio 2010\Projects\StomatoloskaOrdinacija\KontrolerAplikacioneLogike\obj\Debug\Komunikacija.csproj.CopyComplete
+C:\Users\Katarina\Documents\Visual Studio 2010\Projects\StomatoloskaOrdinacija\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Katarina\Documents\Visual Studio 2010\Projects\StomatoloskaOrdinacija\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.pdb

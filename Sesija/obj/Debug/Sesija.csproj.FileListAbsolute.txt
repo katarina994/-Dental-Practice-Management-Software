@@ -1,0 +1,53 @@
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicForma\Sesija\bin\Debug\Sesija.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicForma\Sesija\bin\Debug\Sesija.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicForma\Sesija\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicForma\Sesija\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicForma\Sesija\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicForma\Sesija\obj\Debug\Sesija.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicForma\Sesija\obj\Debug\Sesija.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Sesija\bin\Debug\Sesija.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Sesija\bin\Debug\Sesija.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Sesija\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Sesija\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Sesija\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Sesija\obj\Debug\Sesija.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Sesija\obj\Debug\Sesija.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Sesija\bin\Debug\Sesija.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Sesija\bin\Debug\Sesija.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Sesija\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Sesija\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Sesija\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Sesija\obj\Debug\Sesija.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Sesija\obj\Debug\Sesija.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\Sesija\bin\Debug\Sesija.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\Sesija\bin\Debug\Sesija.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\Sesija\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\Sesija\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\Sesija\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\Sesija\obj\Debug\Sesija.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\Sesija\obj\Debug\Sesija.pdb
+C:\Users\Arsa\Desktop\BasicSem\Sesija\obj\Debug\Sesija.csprojResolveAssemblyReference.cache
+C:\Users\Arsa\Desktop\BasicSem\Sesija\obj\Debug\Sesija.dll
+C:\Users\Arsa\Desktop\BasicSem\Sesija\bin\Debug\Sesija.dll
+C:\Users\Arsa\Desktop\BasicSem\Sesija\bin\Debug\Sesija.pdb
+C:\Users\Arsa\Desktop\BasicSem\Sesija\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Desktop\BasicSem\Sesija\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Desktop\BasicSem\Sesija\obj\Debug\Sesija.pdb
+C:\Users\LEPI\Documents\Visual Studio 2017\Projects\FAX\PS2019\SemSep2019\StomatoloskaOrdinacija\Sesija\bin\Debug\Sesija.dll
+C:\Users\LEPI\Documents\Visual Studio 2017\Projects\FAX\PS2019\SemSep2019\StomatoloskaOrdinacija\Sesija\bin\Debug\Sesija.pdb
+C:\Users\LEPI\Documents\Visual Studio 2017\Projects\FAX\PS2019\SemSep2019\StomatoloskaOrdinacija\Sesija\bin\Debug\Biblioteka.dll
+C:\Users\LEPI\Documents\Visual Studio 2017\Projects\FAX\PS2019\SemSep2019\StomatoloskaOrdinacija\Sesija\bin\Debug\Biblioteka.pdb
+C:\Users\LEPI\Documents\Visual Studio 2017\Projects\FAX\PS2019\SemSep2019\StomatoloskaOrdinacija\Sesija\obj\Debug\Sesija.csprojAssemblyReference.cache
+C:\Users\LEPI\Documents\Visual Studio 2017\Projects\FAX\PS2019\SemSep2019\StomatoloskaOrdinacija\Sesija\obj\Debug\Sesija.csproj.CoreCompileInputs.cache
+C:\Users\LEPI\Documents\Visual Studio 2017\Projects\FAX\PS2019\SemSep2019\StomatoloskaOrdinacija\Sesija\obj\Debug\Sesija.csproj.CopyComplete
+C:\Users\LEPI\Documents\Visual Studio 2017\Projects\FAX\PS2019\SemSep2019\StomatoloskaOrdinacija\Sesija\obj\Debug\Sesija.dll
+C:\Users\LEPI\Documents\Visual Studio 2017\Projects\FAX\PS2019\SemSep2019\StomatoloskaOrdinacija\Sesija\obj\Debug\Sesija.pdb
+C:\Users\Katarina\Documents\Visual Studio 2010\Projects\StomatoloskaOrdinacija\Sesija\bin\Debug\Sesija.dll
+C:\Users\Katarina\Documents\Visual Studio 2010\Projects\StomatoloskaOrdinacija\Sesija\bin\Debug\Sesija.pdb
+C:\Users\Katarina\Documents\Visual Studio 2010\Projects\StomatoloskaOrdinacija\Sesija\bin\Debug\Biblioteka.dll
+C:\Users\Katarina\Documents\Visual Studio 2010\Projects\StomatoloskaOrdinacija\Sesija\bin\Debug\Biblioteka.pdb
+C:\Users\Katarina\Documents\Visual Studio 2010\Projects\StomatoloskaOrdinacija\Sesija\obj\Debug\Sesija.csprojAssemblyReference.cache
+C:\Users\Katarina\Documents\Visual Studio 2010\Projects\StomatoloskaOrdinacija\Sesija\obj\Debug\Sesija.csproj.CoreCompileInputs.cache
+C:\Users\Katarina\Documents\Visual Studio 2010\Projects\StomatoloskaOrdinacija\Sesija\obj\Debug\Sesija.csproj.CopyComplete
+C:\Users\Katarina\Documents\Visual Studio 2010\Projects\StomatoloskaOrdinacija\Sesija\obj\Debug\Sesija.dll
+C:\Users\Katarina\Documents\Visual Studio 2010\Projects\StomatoloskaOrdinacija\Sesija\obj\Debug\Sesija.pdb
